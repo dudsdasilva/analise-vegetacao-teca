@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "Se utilizar este projeto, cite o repositório e a publicação científica associada, quando disponível."
+title: "Análise temporal e espacial de NDVI e EVI em talhões de teca"
+abstract: "Fluxo reprodutível para analisar homogeneidade espacial e estabilidade temporal de índices de vegetação em plantios de teca usando dados Landsat e Sentinel-2."
+type: software
+license: MIT
+# Completar autores, ano, versão e URL após a criação do repositório.

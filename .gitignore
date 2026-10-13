@@ -1,0 +1,30 @@
+# Dados geoespaciais privados / originais
+data/entrada_privada/*
+!data/entrada_privada/.gitkeep
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.qix
+*.gpkg
+*.tif
+*.tiff
+*.zip
+
+# Resultados grandes; publique somente versões autorizadas
+outputs/*
+!outputs/figuras/.gitkeep
+!outputs/tabelas/.gitkeep
+
+# Segredos e credenciais
+.env
+*service-account*.json
+credentials.json
+token.json
+
+# Python / notebooks
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
